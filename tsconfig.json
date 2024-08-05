@@ -16,7 +16,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    "isolatedModules": false, //这个是干嘛的
     "noEmit": true,
     "jsx": "react-jsx"
   },
